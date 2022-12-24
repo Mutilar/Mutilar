@@ -3,5 +3,3 @@ A [**Software Engineer**](https://en.wikipedia.org/wiki/Software_engineering) wo
 Engineering [**@Azure**](https://github.com/azure) [**Machine Learning**](https://azure.microsoft.com/en-us/services/machine-learning/) & Hacking [**@BitNaughts**](https://github.com/bitnaughts).
 
 [![Mutilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutilar)](https://github.com/Mutilar)
-
-[☄ BitNaughts 📻 Radio Days](https://youtu.be/0ZBeHuvttqc)
