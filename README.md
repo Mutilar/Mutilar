@@ -5,5 +5,5 @@ Engineering [**@Azure**](https://github.com/azure) [**Machine Learning**](https:
 [![Mutilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutilar)](https://github.com/Mutilar)
 
 Active Projects:
-- [ℹ️ Iterate ()](https://brianhungerman.com/Iterate)
+- [ℹ️ Iterate](https://brianhungerman.com/Iterate)
 - [☄ BitNaughts](https://bitnaughts.io/)
