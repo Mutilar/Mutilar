@@ -2,8 +2,6 @@ A [**Software Engineer**](https://en.wikipedia.org/wiki/Software_engineering) wo
 
 Engineering [**@Azure**](https://github.com/azure) [**Machine Learning**](https://azure.microsoft.com/en-us/services/machine-learning/) & Hacking [**@BitNaughts**](https://github.com/bitnaughts).
 
-[![Mutilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutilar)](https://github.com/Mutilar)
-
 Active Projects:
 - [ℹ️ Iterate](https://brianhungerman.com/Iterate)
 - [☄ BitNaughts](https://bitnaughts.io/)
