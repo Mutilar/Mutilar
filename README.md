@@ -1,7 +1,7 @@
 # ℹ️ Intro
 
 - Engineering  [**@Azure**](https://github.com/azure) [**Machine Learning**](https://azure.microsoft.com/en-us/services/machine-learning/) 
-- Hacking [**@BitNaughts**](https://github.com/bitnaughts)
+- Hacking [**@IterateCode**](https://github.com/iteratecode), [**@BitNaughts**](https://github.com/bitnaughts)
 
 https://github.com/Mutilar/Mutilar/assets/24861524/a2a7788d-b9b1-4062-9bf4-70676ce3cc34
 
