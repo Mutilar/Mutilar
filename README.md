@@ -7,12 +7,14 @@
 - Hacked [**@IterateCode**](https://github.com/iteratecode)
 
 # 🤖 Marp
-- 🧠 [Marp Pi](https://github.com/Mutilar/MarpPi) 
-- 🎮 [Marp GamePad](https://github.com/Mutilar/MarpGamepad)
+
+- 🧠 [marp.pi](https://github.com/Mutilar/MarpPi) 
+- 🎮 [marp.gamepad](https://github.com/Mutilar/MarpGamepad)
 
 ![Marp Gamepad](https://github.com/Mutilar/MarpGamepad/blob/main/images/marp.gif)
 
 # ☄️ BitNaughts
+
 - 📺 [bitnaughts.github.io](https://github.com/bitnaughts/bitnaughts.github.io)
 - 🎮 [bitnaughts.unity](https://github.com/bitnaughts/bitnaughts.unity)
 
