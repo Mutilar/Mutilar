@@ -6,16 +6,16 @@
 - Hacked [**@BitNaughts**](https://github.com/bitnaughts)
 - Hacked [**@IterateCode**](https://github.com/iteratecode)
 
-# 🤖 Marp
+# 🤖 [Marp](https://github.com/Mutilar/Marp)
 
-- 🧠 [marp.pi](https://github.com/Mutilar/MarpPi) 
-- 🎮 [marp.gamepad](https://github.com/Mutilar/MarpGamepad)
+- 🧠 [marp.pi](https://github.com/Mutilar/MarpPi) ⚡Raspberry Pi 5
+- 🎮 [marp.gamepad](https://github.com/Mutilar/MarpGamepad) ⚡Valve Steamdeck
 
 ![Marp Gamepad](https://github.com/Mutilar/MarpGamepad/blob/main/images/marp.gif)
 
-# ☄️ BitNaughts
+# ☄️ [BitNaughts](https://github.com/bitnaughts/bitnaughts)
 
-- 📺 [bitnaughts.github.io](https://github.com/bitnaughts/bitnaughts.github.io)
-- 🎮 [bitnaughts.unity](https://github.com/bitnaughts/bitnaughts.unity)
+- 📺 [bitnaughts.github.io](https://github.com/bitnaughts/bitnaughts.github.io) ⚡ WebGL
+- 🎮 [bitnaughts.unity](https://github.com/bitnaughts/bitnaughts.unity) ⚡ Unity 6.0
 
 https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0ecdc5a0b75e
