@@ -168,13 +168,11 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 <tr>
 <td align="center" width="50%">
 
-**👑 [The Nobles](https://archidekt.com/decks/15093247/the_nobles)**
-<br>Edgar Markov
+**👑 [Nobles](https://archidekt.com/decks/15093247/the_nobles)**
 </td>
 <td align="center" width="50%">
 
-**👹 [The Demons](https://archidekt.com/decks/15094042/the_demons)**
-<br>Clavileño
+**👹 [Demons](https://archidekt.com/decks/15094042/the_demons)**
 </td>
 </tr>
 </table>
