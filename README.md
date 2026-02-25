@@ -83,7 +83,7 @@
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 
 | Module | Stack |
 |:--|:--|
@@ -123,7 +123,7 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 
 | Module | Role |
 |:--|:--|
@@ -194,6 +194,8 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 
 I've had amazing opportunities to work at empowering companies, non-profits & innovative research labs!
 
+<div align="center">
+
 | | Role | Org | Period | Location |
 |:--|:--|:--|:--|:--|
 | 🪟 | **Senior SWE**, SWE Intern | [Microsoft](https://github.com/microsoft) *(E+D & Azure)* | May 2019 – Present | Bellevue, WA |
@@ -208,6 +210,8 @@ I've had amazing opportunities to work at empowering companies, non-profits & in
 | 💻 | Outreach Lead | ACM *(UCM)* | May 2018 – May 2019 | Merced, CA |
 | 🤖 | Electrical Lead, Treasurer | Red Tie Robotics *(FRC 1458)* | Aug 2014 – May 2016 | Danville, CA |
 | 🤖 | Volunteer | Alamo Robotics | Summer 2016 | Alamo, CA |
+
+</div>
 
 </details>
 
@@ -224,6 +228,8 @@ I've compiled every lab, assignment & project from my journey through **[UCM's C
 
 **University of California, Merced** — Computer Science & Engineering · ***Magna cum laude*** (GPA 3.74)
 
+<div align="center">
+
 | Course | Topic | Semester |
 |:--|:--|:--|
 | [CSE 180](https://github.com/Mutilar/CSE180) | 🤖 Robotics | Spring 2019 |
@@ -235,6 +241,8 @@ I've compiled every lab, assignment & project from my journey through **[UCM's C
 | [CSE 31](https://github.com/Mutilar/CSE031) | ⚙️ Computer Organization | Fall 2017 |
 | [CSE 30](https://github.com/Mutilar/CSE030) | 📚 Data Structures | Spring 2017 |
 | [CSE 15](https://github.com/Mutilar/CSE015) | 🔢 Discrete Mathematics | Fall 2016 |
+
+</div>
 
 </details>
 
@@ -249,6 +257,8 @@ I've compiled every lab, assignment & project from my journey through **[UCM's C
 
 The intersection of computer science & entrepreneurship is a fascinating blend of creativity, pitching & coding!
 
+<div align="center">
+
 | | Project | Context | Award |
 |:--|:--|:--|:--|
 | 🎛 | [Home IoT Panel](https://github.com/Mutilar/home-control-panel) | Physical smart home control surface (toggle switches, rotary encoders, sliders) in a picture frame, RPi + touchscreen | |
@@ -260,6 +270,8 @@ The intersection of computer science & entrepreneurship is a fascinating blend o
 | 🔬 | [Firmi](https://github.com/Mutilar/Firmi-1) | 3D-print Fermi surfaces via Marching Cubes in Fortran90 · MACES NASA MUREP | |
 | 🐕 | DogPark | Tinder-style swipe interface for shelter pet adoption | 🏆 Finalist |
 | ⚡ | AMAX ESD | Real-time ESD bracelet disconnect detection for ISO 9001 server manufacturing | |
+
+</div>
 
 </details>
 
@@ -273,6 +285,8 @@ The intersection of computer science & entrepreneurship is a fascinating blend o
 > *From AR to visualize the **missing link** from **farm to table**… to a semi-autonomous **robotic tank** called **[SRIRACHA](https://github.com/plebeiathon/sriracha)**… to OCR on **nutrition labels** as a **FitBit for your stomach**.*
 
 I've traveled all of **[California](https://en.wikipedia.org/wiki/California)** competing in hackathons, collaborating with colleagues & building teams of passionate engineers!
+
+<div align="center">
 
 | | Hack | Event | Award |
 |:--|:--|:--|:--|
@@ -288,6 +302,8 @@ I've traveled all of **[California](https://en.wikipedia.org/wiki/California)** 
 
 **7 of 9 hackathons won.** &nbsp; [DevPost ↗](https://devpost.com/BrianHungerman)
 
+</div>
+
 </details>
 
 <!-- ═══════════════════════════════════════════════════════════════
@@ -301,6 +317,8 @@ I've traveled all of **[California](https://en.wikipedia.org/wiki/California)** 
 
 Game design offers unique coding challenges to solve, all while fostering creativity & design skills!
 
+<div align="center">
+
 | | Game | Genre | Play |
 |:--|:--|:--|:--|
 | 📜 | PopVuj | God-Sim City Builder — Popol Vuh-inspired civ game with minion AI, genetics & divine intervention | *Ideation* |
@@ -312,6 +330,8 @@ Game design offers unique coding challenges to solve, all while fostering creati
 | ✨ | [VooDoo](https://github.com/Mutilar/Voodoo) | Auto-Battler/RTS — procedural terrain, 11-level campaign & boss fights | [▶ WebGL](https://mutilar.github.io/games/Voodoo/) |
 | 🌌 | Galactic Conquest | Procedural Space Strategy — 4X fleet management (VB.NET → Unity, origin of BitNaughts) | |
 
+</div>
+
 </details>
 
 <!-- ═══════════════════════════════════════════════════════════════
@@ -321,7 +341,9 @@ Game design offers unique coding challenges to solve, all while fostering creati
 <details>
 <summary><h2>🏗️ Portfolio</h2></summary>
 
-[**mutilar.github.io**](https://mutilar.github.io) is itself an open-source project — a single-page app with **zero build tools** and **zero frameworks**.
+> *From a **[Coprime](https://en.wikipedia.org/wiki/Coprime_integers) parallax orb engine** working away in the background… to **[Glassmorphic](https://aesthetics.fandom.com/wiki/Glassmorphism) tiles** floating in the foreground… to **[CSV-driven](https://www.papaparse.com/) data** powering it all.*
+
+**[Mutilar.github.io](https://github.com/Mutilar/mutilar.github.io)** is yet another one of my 45 **open-source** projects on display here!
 
 <div align="center">
 <a href="https://mutilar.github.io">
