@@ -11,7 +11,7 @@
 
 **Senior [Software Engineer](https://en.wikipedia.org/wiki/Software_engineering)** incubating **[A.I.](https://en.wikipedia.org/wiki/Artificial_intelligence) [U.X.](https://en.wikipedia.org/wiki/User_experience)** with **Microsoft [Applied Sciences](https://www.microsoft.com/applied-sciences)**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mutilar.github.io-FF6719?style=for-the-badge&labelColor=555)](https://mutilar.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mutilar.github.io-FF6719?style=for-the-badge&labelColor=555)](https://brianhungerman.com)
 [![Blog](https://img.shields.io/badge/Blog-Codefied-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://codefied.substack.com/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12143746238)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
@@ -212,6 +212,8 @@ I've had amazing opportunities to work at empowering companies, non-profits & in
 | 🤖 | Electrical Lead, Treasurer | Red Tie Robotics *(FRC 1458)* | Aug 2014 – May 2016 | Danville, CA |
 | 🤖 | Volunteer | Alamo Robotics | Summer 2016 | Alamo, CA |
 
+[💼 LinkedIn ↗](https://www.linkedin.com/in/brian-hungerman/) · [📄 Resume ↗](https://github.com/Mutilar/mutilar.github.io/blob/master/pdf/resume.pdf)
+
 </div>
 
 </details>
@@ -229,7 +231,6 @@ I've had amazing opportunities to work at empowering companies, non-profits & in
 
 I've compiled every lab, assignment & project from my journey through **[UCM's Computer Science & Engineering](https://engineering.ucmerced.edu/academics/CSE/computer-science-engineering)** program!
 
-**University of California, Merced** — Computer Science & Engineering · ***Magna cum laude*** (GPA 3.74)
 
 <div align="center">
 
@@ -246,6 +247,10 @@ I've compiled every lab, assignment & project from my journey through **[UCM's C
 | [CSE 15](https://github.com/Mutilar/CSE015) | 🔢 Discrete Mathematics | Fall 2016 |
 
 </div>
+
+**University of California, Merced** — Computer Science & Engineering · ***Magna cum laude*** (GPA 3.74)
+
+[🎓 UC Merced ↗](https://www.ucmerced.edu/)
 
 </details>
 </div>
@@ -275,6 +280,8 @@ The intersection of computer science & entrepreneurship is a fascinating blend o
 | 🔬 | [Firmi](https://github.com/Mutilar/Firmi-1) | 3D-print Fermi surfaces via Marching Cubes in Fortran90 · MACES NASA MUREP | |
 | 🐕 | DogPark | Tinder-style swipe interface for shelter pet adoption | 🏆 Finalist |
 | ⚡ | AMAX ESD | Real-time ESD bracelet disconnect detection for ISO 9001 server manufacturing | |
+
+[🐙 Iterate ↗](https://github.com/iteratecode) · [🐙 Mutilar ↗](https://github.com/Mutilar)
 
 </div>
 
@@ -307,7 +314,7 @@ I've traveled all of **[California](https://en.wikipedia.org/wiki/California)** 
 | 🌾 | [GISt](https://github.com/plebeiathon/GISt) | HackDavis, Jan 2018 | 🏆 Best Environment |
 | 🥫 | [DigestQuest](https://github.com/plebeiathon/DigestQuest) | HackMerced, Sep 2017 | 🏆 Best in Design |
 
-**7 of 9 hackathons won.** &nbsp; [DevPost ↗](https://devpost.com/BrianHungerman)
+[🐙 Plebeiathon ↗](https://github.com/plebeiathon) · [🏆 DevPost ↗](https://devpost.com/BrianHungerman)
 
 </div>
 
@@ -338,6 +345,8 @@ Game design offers unique coding challenges to solve, all while fostering creati
 | 🕹️ | [SpaceNinjas](https://github.com/Mutilar/SpaceNinjas) | 2D Platformer — boilerplate with dual architecture for teaching | [▶ WebGL](https://mutilar.github.io/games/SpaceNinjas/) |
 | ✨ | [VooDoo](https://github.com/Mutilar/Voodoo) | Auto-Battler/RTS — procedural terrain, 11-level campaign & boss fights | [▶ WebGL](https://mutilar.github.io/games/Voodoo/) |
 | 🌌 | Galactic Conquest | Procedural Space Strategy — 4X fleet management (VB.NET → Unity, origin of BitNaughts) | |
+
+[🐙 SeeRäuber ↗](https://github.com/searauber) · [🐙 BitNaughts ↗](https://github.com/bitnaughts)
 
 </div>
 
