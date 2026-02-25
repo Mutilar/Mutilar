@@ -88,7 +88,7 @@
 | Module | Stack |
 |:--|:--|
 | [🧠 marp.brain](https://github.com/Mutilar/MarpPi) | Raspberry Pi 5 |
-| [🎮 marp.gamepad](https://github.com/Mutilar/MarpGamepad) | Valve Steam Deck — Unity 6.0 |
+| [🎮 marp.gamepad](https://github.com/Mutilar/MarpGamepad) | Valve Steam Deck |
 
 </td>
 </tr>
@@ -127,12 +127,12 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 
 | Module | Role |
 |:--|:--|
-| [☄️ bitnaughts](https://github.com/bitnaughts/bitnaughts) | Parent repo & submodule orchestrator |
-| [🎮 bitnaughts.unity](https://github.com/bitnaughts/bitnaughts.unity) | Unity 6.0 game client — in-game terminal + programming challenges |
-| [👨‍💻 bitnaughts.interpreter](https://github.com/bitnaughts/bitnaughts.interpreter) | C# assembly interpreter — steps through OP Codes instruction-by-instruction |
-| [📺 bitnaughts.github.io](https://github.com/bitnaughts/bitnaughts.github.io) | WebGL front-end — [bitnaughts.io](https://bitnaughts.io) |
-| [📡 bitnaughts.mainframe](https://github.com/bitnaughts/bitnaughts.mainframe) | Azure Functions + MongoDB — multiplayer state sync & Git persistence |
-| [🎤 bitnaughts.voice](https://github.com/bitnaughts/bitnaughts.voice) | A.I. narration via TorToiSe TTS — autoregressive + diffusion multi-voice |
+| [☄️ bitnaughts](https://github.com/bitnaughts/bitnaughts) | Code Gamified |
+| [🎮 bitnaughts.unity](https://github.com/bitnaughts/bitnaughts.unity) | Unity 6.0 |
+| [👨‍💻 bitnaughts.interpreter](https://github.com/bitnaughts/bitnaughts.interpreter) | C# Interpreter |
+| [📺 bitnaughts.github.io](https://github.com/bitnaughts/bitnaughts.github.io) | WebGL  ([bitnaughts.io](https://bitnaughts.io)) |
+| [📡 bitnaughts.mainframe](https://github.com/bitnaughts/bitnaughts.mainframe) | Azure Persistence |
+| [🎤 bitnaughts.voice](https://github.com/bitnaughts/bitnaughts.voice) | A.I. narration |
 
 </td>
 </tr>
