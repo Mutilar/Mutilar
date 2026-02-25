@@ -197,7 +197,7 @@ I've had amazing opportunities to work at empowering companies, non-profits & in
 
 | | Role | Org | Period | Location |
 |:--|:--|:--|:--|:--|
-| 🪟 | **Senior SWE**, SWE Intern | [Microsoft](https://github.com/microsoft) *(E+D & Azure)* | May 2019 – Present | Bellevue, WA |
+| 🪟 | Senior SWE, SWE Intern | [Microsoft](https://github.com/microsoft) *(E+D & Azure)* | May 2019 – Present | Bellevue, WA |
 | 🔬 | SWE Intern | [Ventana](https://diagnostics.roche.com/) *(Roche)* | May – Dec 2018 | Santa Clara, CA |
 | 🛰️ | Geospatial RA | [VICE Lab](https://github.com/vicelab) *(UCM)* | Aug 2018 – Dec 2019 | Merced, CA |
 | 📡 | Computational RA | ANDES Lab *(UCM)* | Jan – May 2019 | Merced, CA |
@@ -305,7 +305,7 @@ I've traveled all of **[California](https://en.wikipedia.org/wiki/California)** 
 | | Hack | Event | Date | Award |
 |:--|:--|:--|:--|:--|
 | 🦾 | [MotorSkills](https://github.com/plebeiathon/motorskills) | SLO Hacks | Feb 2019 | 🏆 Best Use of GCP |
-| ⛽ | [GasLeek](https://github.com/plebeiathon/gasLEEK) | ValleyHacks | Jan 2019 | 🏆 **1st Place** |
+| ⛽ | [GasLeek](https://github.com/plebeiathon/gasLEEK) | ValleyHacks | Jan 2019 | 🏆 1st Place |
 | 🧪 | [ChemisTRY](https://github.com/plebeiathon/ChemisTRY) | CruzHacks | Jan 2019 | |
 | 🦿 | [SRIRACHA](https://github.com/plebeiathon/sriracha) | SDHacks | Oct 2018 | 🏆 3rd Place |
 | 🚜 | [SMARTank](https://github.com/plebeiathon/SMARTank) | HackFresno | Apr 2018 | 🏆 Best Hardware |
