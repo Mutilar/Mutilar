@@ -395,13 +395,6 @@ Game design offers unique coding challenges to solve, all while fostering creati
 
 *I welcome opportunities to connect, learn from others & share my expertise!*
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mutilar)
-[![Portfolio](https://img.shields.io/badge/🌐-mutilar.github.io-FF6719?style=flat-square&labelColor=555)](https://mutilar.github.io)
-[![Blog](https://img.shields.io/badge/-Blog-FF6719?style=flat-square&logo=substack&logoColor=white)](https://codefied.substack.com/)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/12143746238)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
-[![Email](https://img.shields.io/badge/-Email-C20A5E?style=flat-square&logo=maildotru&logoColor=white)](mailto:brianhungerman@gmail.com)
-
 <sub>🐧 Brian Hungerman · 2026</sub>
 
 </div>
