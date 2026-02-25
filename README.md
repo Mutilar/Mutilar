@@ -130,7 +130,7 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 | [☄️ bitnaughts](https://github.com/bitnaughts/bitnaughts) | Code Gamified |
 | [🎮 bitnaughts.unity](https://github.com/bitnaughts/bitnaughts.unity) | Unity 6.0 |
 | [👨‍💻 bitnaughts.interpreter](https://github.com/bitnaughts/bitnaughts.interpreter) | C# Interpreter |
-| [📺 bitnaughts.github.io](https://github.com/bitnaughts/bitnaughts.github.io) | WebGL  ([bitnaughts.io](https://bitnaughts.io)) |
+| [📺 bitnaughts.github.io](https://github.com/bitnaughts/bitnaughts.github.io) | WebGL  |
 | [📡 bitnaughts.mainframe](https://github.com/bitnaughts/bitnaughts.mainframe) | Azure Persistence |
 | [🎤 bitnaughts.voice](https://github.com/bitnaughts/bitnaughts.voice) | A.I. narration |
 
