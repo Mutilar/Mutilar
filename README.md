@@ -39,13 +39,13 @@
 ```text
 🐧 Brian Hungerman
 ├── 🪟 Microsoft (2019–Present)
-│   ├── Applied Sciences
-│   └── Azure ML · E+D
+│   ├── Applied Sciences (E+D)
+│   └── Inferencing (Azure ML)
 ├── 🎓 UC Merced (2016–2019)
-│   └── CSE · Magna cum laude
+│   └── CSE (Magna cum laude)
 ├── 🤖 MARP
 ├── ☄️ BitNaughts
-├── 🪄 MTG · Dusk Rose Codex
+├── 🪄 Dusk Rose Codex
 └── 45+ open-source repos
 ```
 
