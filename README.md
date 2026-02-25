@@ -379,14 +379,14 @@ Game design offers unique coding challenges to solve, all while fostering creati
 
 | Layer | Details |
 |:--|:--|
-| **Rendering** | Dual-canvas coprime parallax engine with per-section color palettes |
-| **Design** | Glassmorphic tiles & bands via `backdrop-filter` |
-| **Data** | CSV-driven content parsed at runtime by PapaParse |
-| **Modals** | 7 modal types — Detail · Deck · Diagram · Architecture · PDF · WebGL · Gallery |
-| **Audio** | Web Audio API equalizer visualization & transport controls |
-| **Scroll** | IntersectionObserver reveal animations & active nav highlight |
-| **A11y** | Focus trapping · ARIA labels · JSON-LD · Open Graph |
-| **Hosting** | GitHub Pages · MIT licensed |
+| 🌌 **Visuals** | Coprime parallax orb engine |
+| 🎨 **Design** | Glassmorphic styling |
+| 📊 **Data** | CSV-driven content · PapaParse |
+| 🪟 **Modals** | Details · Decks · Diagrams · PDFs · WebGL |
+| 🎵 **Audio** | Web Audio · Equalizer · Controls |
+| 📜 **Scroll** | IntersectionObserver · Nav Focus |
+| ♿ **A11y** | Accessibility · ARIA labels · SEO |
+| 🌐 **Hosting** | GitHub Pages · MIT licensed |
 
 </details>
 </div>
