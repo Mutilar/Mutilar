@@ -26,11 +26,11 @@
 
 ### 🔭 What's Up
 
-- 🤖 Hacking [**@Marp**](https://github.com/Mutilar/marp) — robotics test-bed on Raspberry Pi 5 + Valve Steam Deck
-- 🔬 Researching [**@Microsoft Applied Sciences**](https://www.microsoft.com/applied-sciences) — A.I. U.X. incubation
-- ⚙️ Engineered [**@Azure Machine Learning**](https://azure.microsoft.com/en-us/services/machine-learning/) — 8B+ requests/day
-- ☄️ Hacked [**@BitNaughts**](https://github.com/bitnaughts) — code gamified across 4 Microsoft Hackathons
-- ℹ️ Hacked [**@IterateCode**](https://github.com/iteratecode) — $5,000 Grand Prize, CITRIS Mobile App Challenge
+- 🤖 Hacking [**@Marp**](https://github.com/Mutilar/marp) 
+- 🔬 Researching [**@Microsoft Applied Sciences**](https://www.microsoft.com/applied-sciences)
+- ⚙️ Engineered [**@Azure Machine Learning**](https://azure.microsoft.com/en-us/services/machine-learning/)
+- ☄️ Hacked [**@BitNaughts**](https://github.com/bitnaughts)
+- ℹ️ Hacked [**@IterateCode**](https://github.com/iteratecode)
 
 </td><td width="320">
 
