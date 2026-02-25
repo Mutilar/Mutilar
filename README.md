@@ -43,9 +43,9 @@
 │   └── Inferencing (AzureML)
 ├── 🎓 UC Merced (2016–2019)
 │   └── CSE (Magna cum laude)
-├── 🤖 MARP
-├── ☄️ BitNaughts
-├── 🪄 Dusk Rose Codex
+├── 🤖 MARP (2025-2026)
+├── ☄️ BitNaughts (2016-2026)
+├── 🪄 Dusk Rose Codex (2025)
 └── 45+ open-source repos
 ```
 
