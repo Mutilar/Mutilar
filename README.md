@@ -85,10 +85,10 @@
 <tr>
 <td align="center">
 
-| Module | Stack |
-|:--|:--|
-| [🧠 marp.brain](https://github.com/Mutilar/MarpPi) | Raspberry Pi 5 |
-| [🎮 marp.gamepad](https://github.com/Mutilar/MarpGamepad) | Valve Steam Deck |
+| | Module | Stack |
+|:--|:--|:--|
+| 🧠 | [marp.brain](https://github.com/Mutilar/MarpPi) | Raspberry Pi 5 |
+| 🎮 | [marp.gamepad](https://github.com/Mutilar/MarpGamepad) | Valve Steam Deck |
 
 </td>
 </tr>
@@ -125,14 +125,14 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 <tr>
 <td align="center">
 
-| Module | Role |
-|:--|:--|
-| [☄️ bitnaughts](https://github.com/bitnaughts/bitnaughts) | Code Gamified |
-| [🎮 bitnaughts.unity](https://github.com/bitnaughts/bitnaughts.unity) | Unity 6.0 |
-| [👨‍💻 bitnaughts.interpreter](https://github.com/bitnaughts/bitnaughts.interpreter) | C# Interpreter |
-| [📺 bitnaughts.github.io](https://github.com/bitnaughts/bitnaughts.github.io) | WebGL  |
-| [📡 bitnaughts.mainframe](https://github.com/bitnaughts/bitnaughts.mainframe) | Azure Persistence |
-| [🎤 bitnaughts.voice](https://github.com/bitnaughts/bitnaughts.voice) | A.I. narration |
+| | Module | Role |
+|:--|:--|:--|
+| ☄️ | [bitnaughts](https://github.com/bitnaughts/bitnaughts) | Code Gamified |
+| 🎮 | [bitnaughts.unity](https://github.com/bitnaughts/bitnaughts.unity) | Unity 6.0 |
+| 👨‍💻 | [bitnaughts.interpreter](https://github.com/bitnaughts/bitnaughts.interpreter) | C# Interpreter |
+| 📺 | [bitnaughts.github.io](https://github.com/bitnaughts/bitnaughts.github.io) | WebGL  |
+| 📡 | [bitnaughts.mainframe](https://github.com/bitnaughts/bitnaughts.mainframe) | Azure Persistence |
+| 🎤 | [bitnaughts.voice](https://github.com/bitnaughts/bitnaughts.voice) | A.I. narration |
 
 </td>
 </tr>
@@ -170,15 +170,11 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 
 **👑 [The Nobles](https://archidekt.com/decks/15093247/the_nobles)**
 <br>Edgar Markov
-> Mardu Vampires
-
 </td>
 <td align="center" width="50%">
 
 **👹 [The Demons](https://archidekt.com/decks/15094042/the_demons)**
 <br>Clavileño
-> Orzhov Aristocrats
-
 </td>
 </tr>
 </table>
@@ -237,17 +233,17 @@ I've compiled every lab, assignment & project from my journey through **[UCM's C
 
 <div align="center">
 
-| Course | Topic | Semester |
+| | Course | Semester |
 |:--|:--|:--|
-| [CSE 180](https://github.com/Mutilar/CSE180) | 🤖 Robotics | Spring 2019 |
-| [CSE 165](https://github.com/Mutilar/CSE165) | 📦 Object-Oriented Programming | Fall 2018 |
-| [CSE 160](https://github.com/Mutilar/CSE160) | 🌐 Computer Networks | Fall 2018 |
-| [CSE 120](https://github.com/Mutilar/CSE120) | 💻 Software Engineering | Spring 2019 |
-| [CSE 111](https://github.com/Mutilar/CSE111) | 🗃️ Database Systems | Fall 2018 |
-| [CSE 100](https://github.com/Mutilar/CSE100) | 📊 Algorithm Design & Analysis | Spring 2018 |
-| [CSE 31](https://github.com/Mutilar/CSE031) | ⚙️ Computer Organization | Fall 2017 |
-| [CSE 30](https://github.com/Mutilar/CSE030) | 📚 Data Structures | Spring 2017 |
-| [CSE 15](https://github.com/Mutilar/CSE015) | 🔢 Discrete Mathematics | Fall 2016 |
+| 🤖 | [Robotics](https://github.com/Mutilar/CSE180) | Spring 2019 |
+| 📦 | [Object-Oriented Programming](https://github.com/Mutilar/CSE165) | Fall 2018 |
+| 🌐 | [Computer Networks](https://github.com/Mutilar/CSE160) | Fall 2018 |
+| 💻 | [Software Engineering](https://github.com/Mutilar/CSE120) | Spring 2019 |
+| 🗃️ | [Database Systems](https://github.com/Mutilar/CSE111) | Fall 2018 |
+| 📊 | [Algorithm Design & Analysis](https://github.com/Mutilar/CSE100) | Spring 2018 |
+| ⚙️ | [Computer Organization](https://github.com/Mutilar/CSE031) | Fall 2017 |
+| 📚 | [Data Structures](https://github.com/Mutilar/CSE030) | Spring 2017 |
+| 🔢 | [Discrete Mathematics](https://github.com/Mutilar/CSE015) | Fall 2016 |
 
 </div>
 
@@ -377,16 +373,16 @@ Game design offers unique coding challenges to solve, all while fostering creati
 </a>
 </div>
 
-| Layer | Details |
-|:--|:--|
-| 🌌 **Visuals** | Coprime parallax orb engine |
-| 🎨 **Design** | Glassmorphic styling |
-| 📊 **Data** | CSV-driven content · PapaParse |
-| 🪟 **Modals** | Details · Decks · Diagrams · PDFs · WebGL |
-| 🎵 **Audio** | Web Audio · Equalizer · Controls |
-| 📜 **Scroll** | IntersectionObserver · Nav Focus |
-| ♿ **A11y** | Accessibility · ARIA labels · SEO |
-| 🌐 **Hosting** | GitHub Pages · MIT licensed |
+| | Layer | Details |
+|:--|:--|:--|
+| 🌌 | **Visuals** | Coprime parallax orb engine |
+| 🎨 | **Design** | Glassmorphic styling |
+| 📊 | **Data** | CSV-driven content · PapaParse |
+| 🪟 | **Modals** | Details · Decks · Diagrams · PDFs · WebGL |
+| 🎵 | **Audio** | Web Audio · Equalizer · Controls |
+| 📜 | **Scroll** | IntersectionObserver · Nav Focus |
+| ♿ | **A11y** | Accessibility · ARIA labels · SEO |
+| 🌐 | **Hosting** | GitHub Pages · MIT licensed |
 
 </details>
 </div>
