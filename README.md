@@ -24,7 +24,7 @@
 <div align="center">
 
 <table>
-<tr><td>
+<tr><td valign="top">
 
 ### 🔭 What's Up
 
@@ -34,7 +34,7 @@
 - ☄️ Hacked [**@BitNaughts**](https://github.com/bitnaughts)
 - ℹ️ Hacked [**@IterateCode**](https://github.com/iteratecode)
 
-</td><td width="320">
+</td><td valign="top" width="320">
 
 ```text
 🐧 Brian Hungerman
