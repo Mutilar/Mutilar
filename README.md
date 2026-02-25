@@ -21,7 +21,7 @@
 
 <!-- ─── WHAT'S UP ────────────────────────────────────────────── -->
 
-<table>
+<table width="100%">
 <tr><td>
 
 ### 🔭 What's Up
@@ -64,7 +64,7 @@
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
@@ -72,7 +72,7 @@
   <img src="https://raw.githubusercontent.com/Mutilar/MarpGamepad/main/images/marp.gif" alt="MARP Gamepad Demo" width="480" />
 </a>
 
-<sub>🎮 MARP Gamepad — Unity 6.0 wireless teleoperation on Steam Deck</sub>
+<sub>🎮 MARP Gamepad U.X.</sub>
 
 </td>
 </tr>
@@ -81,8 +81,8 @@
 
 | Module | Stack |
 |:--|:--|
-| [🧠 marp.brain](https://github.com/Mutilar/MarpPi) | Raspberry Pi 5 — 4-axis stepper control, MJPEG video mux, Kinect RGB/IR/depth, auto-stop safety, systemd auto-start |
-| [🎮 marp.gamepad](https://github.com/Mutilar/MarpGamepad) | Valve Steam Deck — Unity 6.0 client, real-time MJPEG feed, UDP JSON protocol, Xbox & Steam Deck controller support |
+| [🧠 marp.brain](https://github.com/Mutilar/MarpPi) | Raspberry Pi 5 |
+| [🎮 marp.gamepad](https://github.com/Mutilar/MarpGamepad) | Valve Steam Deck — Unity 6.0 |
 
 </td>
 </tr>
@@ -104,7 +104,7 @@
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
@@ -150,7 +150,7 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="50%">
 
