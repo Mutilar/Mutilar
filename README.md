@@ -7,10 +7,6 @@
 
 <!-- ─── HERO ─────────────────────────────────────────────────── -->
 
-<a href="https://mutilar.github.io">
-  <img src="https://mutilar.github.io/images/brian.png" width="150" style="border-radius:50%;" alt="Brian Hungerman" />
-</a>
-
 # 🐧 Brian Hungerman
 
 **Senior [Software Engineer](https://en.wikipedia.org/wiki/Software_engineering)** incubating **[A.I.](https://en.wikipedia.org/wiki/Artificial_intelligence) [U.X.](https://en.wikipedia.org/wiki/User_experience)** with **Microsoft [Applied Sciences](https://www.microsoft.com/applied-sciences)**
