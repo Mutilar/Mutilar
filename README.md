@@ -13,6 +13,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mutilar.github.io-FF6719?style=for-the-badge&labelColor=555)](https://brianhungerman.com)
 [![Blog](https://img.shields.io/badge/Blog-Codefied-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://codefied.substack.com/)
+<br>
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12143746238)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
 [![Email](https://img.shields.io/badge/Email-C20A5E?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:brianhungerman@gmail.com)
