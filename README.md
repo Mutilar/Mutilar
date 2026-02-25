@@ -214,7 +214,9 @@ I've had amazing opportunities to work at empowering companies, non-profits & in
 | 🤖 | Electrical Lead, Treasurer | Red Tie Robotics *(FRC 1458)* | Aug 2014 – May 2016 | Danville, CA |
 | 🤖 | Volunteer | Alamo Robotics | Summer 2016 | Alamo, CA |
 
-[💼 LinkedIn ↗](https://www.linkedin.com/in/brian-hungerman/) · [📄 Resume ↗](https://github.com/Mutilar/mutilar.github.io/blob/master/pdf/resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
+<br>
+[![Resume](https://img.shields.io/badge/📄_Resume-555?style=flat-square)](https://github.com/Mutilar/mutilar.github.io/blob/master/pdf/resume.pdf)
 
 </div>
 
@@ -252,7 +254,7 @@ I've compiled every lab, assignment & project from my journey through **[UCM's C
 
 **University of California, Merced** — Computer Science & Engineering · ***Magna cum laude*** (GPA 3.74)
 
-[🎓 UC Merced ↗](https://www.ucmerced.edu/)
+[![UC Merced](https://img.shields.io/badge/🎓_UC_Merced-003DA5?style=flat-square)](https://www.ucmerced.edu/)
 
 </details>
 </div>
@@ -273,17 +275,19 @@ The intersection of computer science & entrepreneurship is a fascinating blend o
 
 | | Project | Context | Award |
 |:--|:--|:--|:--|
-| 🎛 | [Home IoT Panel](https://github.com/Mutilar/home-control-panel) | Physical smart home control surface (toggle switches, rotary encoders, sliders) in a picture frame, RPi + touchscreen | |
-| 🏃 | [MotleyMoves](https://github.com/plebeiathon/MotleyMoves) | Serverless C#/.NET + Azure SQL race management for a nonprofit running club | |
-| ⚡ | [Azure ML Ops](https://github.com/Mutilar/AzureMLOperationalization) | Agentless Jupyter validation pipeline — Azure DevOps + Azure ML + Azure Functions | |
-| 💨 | [Breeze](https://github.com/plebeiathon/Breeze) | Smartphone aux-jack air quality sensor with real-time heatmap dashboard | |
+| 🎛 | [Home IoT Panel](https://github.com/Mutilar/home-control-panel) | RPi smart home control surface — toggles, encoders, sliders | |
+| 🏃 | [MotleyMoves](https://github.com/plebeiathon/MotleyMoves) | Serverless C#/.NET + Azure SQL race management | |
+| ⚡ | [Azure ML Ops](https://github.com/Mutilar/AzureMLOperationalization) | Agentless Jupyter validation — Azure DevOps + ML + Functions | |
+| 💨 | [Breeze](https://github.com/plebeiathon/Breeze) | Aux-jack air quality sensor with real-time heatmap | |
 | 🗠 | [Ozone](https://github.com/SSites/Ozone) | React + Mapbox sustainability map for UC Merced | 🏆 2nd Place |
-| ℹ️ | [Iterate](https://github.com/Mutilar/iterate) | Tap-based mobile code editor with Java/Arduino syntax — the seed for BitNaughts | 🏆 **$5K Grand Prize** |
-| 🔬 | [Firmi](https://github.com/Mutilar/Firmi-1) | 3D-print Fermi surfaces via Marching Cubes in Fortran90 · MACES NASA MUREP | |
-| 🐕 | DogPark | Tinder-style swipe interface for shelter pet adoption | 🏆 Finalist |
-| ⚡ | AMAX ESD | Real-time ESD bracelet disconnect detection for ISO 9001 server manufacturing | |
+| ℹ️ | [Iterate](https://github.com/Mutilar/iterate) | Tap-based mobile code editor — the seed for BitNaughts | 🏆 **$5K Grand Prize** |
+| 🔬 | [Firmi](https://github.com/Mutilar/Firmi-1) | Marching Cubes Fermi surfaces in Fortran90 · NASA MUREP | |
+| 🐕 | DogPark | Tinder-style swipe UI for shelter pet adoption | 🏆 Finalist |
+| ⚡ | AMAX ESD | Real-time ESD bracelet disconnect detection | |
 
-[🐙 Iterate ↗](https://github.com/iteratecode) · [🐙 Mutilar ↗](https://github.com/Mutilar)
+[![Iterate](https://img.shields.io/badge/Iterate-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iteratecode)
+<br>
+[![Mutilar](https://img.shields.io/badge/Mutilar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mutilar)
 
 </div>
 
@@ -304,19 +308,21 @@ I've traveled all of **[California](https://en.wikipedia.org/wiki/California)** 
 
 <div align="center">
 
-| | Hack | Event | Award |
-|:--|:--|:--|:--|
-| 🦾 | [MotorSkills](https://github.com/plebeiathon/motorskills) | SLO Hacks, Feb 2019 | 🏆 Best Use of GCP |
-| ⛽ | [GasLeek](https://github.com/plebeiathon/gasLEEK) | ValleyHacks, Jan 2019 | 🏆 **1st Place** |
-| 🧪 | [ChemisTRY](https://github.com/plebeiathon/ChemisTRY) | CruzHacks, Jan 2019 | |
-| 🦿 | [SRIRACHA](https://github.com/plebeiathon/sriracha) | SDHacks, Oct 2018 | 🏆 3rd Place |
-| 🚜 | [SMARTank](https://github.com/plebeiathon/SMARTank) | HackFresno, Apr 2018 | 🏆 Best Hardware |
-| 👨‍🦯 | [Blindsight](https://github.com/plebeiathon/blindsight) | CitrusHack, Apr 2018 | 🏆 3rd Place |
-| 🧭 | [SeeRäuber](https://github.com/plebeiathon/seerauber) | SacHacks, Dec 2018 | 🏆 2nd Place |
-| 🌾 | [GISt](https://github.com/plebeiathon/GISt) | HackDavis, Jan 2018 | 🏆 Best Environment |
-| 🥫 | [DigestQuest](https://github.com/plebeiathon/DigestQuest) | HackMerced, Sep 2017 | 🏆 Best in Design |
+| | Hack | Event | Date | Award |
+|:--|:--|:--|:--|:--|
+| 🦾 | [MotorSkills](https://github.com/plebeiathon/motorskills) | SLO Hacks | Feb 2019 | 🏆 Best Use of GCP |
+| ⛽ | [GasLeek](https://github.com/plebeiathon/gasLEEK) | ValleyHacks | Jan 2019 | 🏆 **1st Place** |
+| 🧪 | [ChemisTRY](https://github.com/plebeiathon/ChemisTRY) | CruzHacks | Jan 2019 | |
+| 🦿 | [SRIRACHA](https://github.com/plebeiathon/sriracha) | SDHacks | Oct 2018 | 🏆 3rd Place |
+| 🚜 | [SMARTank](https://github.com/plebeiathon/SMARTank) | HackFresno | Apr 2018 | 🏆 Best Hardware |
+| 👨‍🦯 | [Blindsight](https://github.com/plebeiathon/blindsight) | CitrusHack | Apr 2018 | 🏆 3rd Place |
+| 🧭 | [SeeRäuber](https://github.com/plebeiathon/seerauber) | SacHacks | Dec 2018 | 🏆 2nd Place |
+| 🌾 | [GISt](https://github.com/plebeiathon/GISt) | HackDavis | Jan 2018 | 🏆 Best Environment |
+| 🥫 | [DigestQuest](https://github.com/plebeiathon/DigestQuest) | HackMerced | Sep 2017 | 🏆 Best in Design |
 
-[🐙 Plebeiathon ↗](https://github.com/plebeiathon) · [🏆 DevPost ↗](https://devpost.com/BrianHungerman)
+[![Plebeiathon](https://img.shields.io/badge/Plebeiathon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/plebeiathon)
+<br>
+[![DevPost](https://img.shields.io/badge/🏅_DevPost-003E54?style=flat-square)](https://devpost.com/BrianHungerman)
 
 </div>
 
@@ -337,18 +343,20 @@ Game design offers unique coding challenges to solve, all while fostering creati
 
 <div align="center">
 
-| | Game | Genre | Play |
-|:--|:--|:--|:--|
-| 📜 | PopVuj | God-Sim City Builder — Popol Vuh-inspired civ game with minion AI, genetics & divine intervention | *Ideation* |
-| ☄️ | [BitNaughts](https://github.com/bitnaughts/bitnaughts) | Code Gamified — educational programming game (Unity 6.0, C#) | [▶ bitnaughts.io](https://bitnaughts.io) |
-| ℹ️ | [Iterate](https://github.com/Mutilar/Iterate) | Code Mobilized — tap-based mobile code editor (Unity, C#) | [▶ iterateco.de](https://iterateco.de) |
-| 🧭 | [SeeRäuber](https://github.com/plebeiathon/seerauber) | Pirating Code — distributed-AI pirate strategy with visual programming | |
-| 🌸 | [Graviton](https://github.com/Mutilar/Graviton) | Retro Sci-fi Tower Defense — satellite defense vs. alien swarms, 5 waves | [▶ WebGL](https://mutilar.github.io/games/Graviton/) |
-| 🕹️ | [SpaceNinjas](https://github.com/Mutilar/SpaceNinjas) | 2D Platformer — boilerplate with dual architecture for teaching | [▶ WebGL](https://mutilar.github.io/games/SpaceNinjas/) |
-| ✨ | [VooDoo](https://github.com/Mutilar/Voodoo) | Auto-Battler/RTS — procedural terrain, 11-level campaign & boss fights | [▶ WebGL](https://mutilar.github.io/games/Voodoo/) |
-| 🌌 | Galactic Conquest | Procedural Space Strategy — 4X fleet management (VB.NET → Unity, origin of BitNaughts) | |
+| | Game | Genre | Date | Play |
+|:--|:--|:--|:--|:--|
+| 📜 | PopVuj | God-Sim City Builder | *Ideation* | |
+| ☄️ | [BitNaughts](https://github.com/bitnaughts/bitnaughts) | Code Gamified | 2016–2026 | [▶ bitnaughts.io](https://bitnaughts.io) |
+| ℹ️ | [Iterate](https://github.com/Mutilar/Iterate) | Code Mobilized | 2016 | [▶ iterateco.de](https://iterateco.de) |
+| 🧭 | [SeeRäuber](https://github.com/plebeiathon/seerauber) | Pirating Code | Dec 2018 | |
+| 🌸 | [Graviton](https://github.com/Mutilar/Graviton) | Retro Sci-fi Tower Defense | Sep 2016 | [▶ WebGL](https://mutilar.github.io/games/Graviton/) |
+| 🕹️ | [SpaceNinjas](https://github.com/Mutilar/SpaceNinjas) | 2D Platformer | 2015 | [▶ WebGL](https://mutilar.github.io/games/SpaceNinjas/) |
+| ✨ | [VooDoo](https://github.com/Mutilar/Voodoo) | Auto-Battler/RTS | 2015 | [▶ WebGL](https://mutilar.github.io/games/Voodoo/) |
+| 🌌 | Galactic Conquest | Procedural Space Strategy | 2014 | |
 
-[🐙 SeeRäuber ↗](https://github.com/searauber) · [🐙 BitNaughts ↗](https://github.com/bitnaughts)
+[![SeeRäuber](https://img.shields.io/badge/SeeRäuber-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/searauber)
+<br>
+[![BitNaughts](https://img.shields.io/badge/BitNaughts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bitnaughts)
 
 </div>
 
@@ -375,33 +383,14 @@ Game design offers unique coding challenges to solve, all while fostering creati
 
 | Layer | Details |
 |:--|:--|
-| **Rendering** | Dual-canvas parallax engine — coprime orb oscillations with per-section color palettes, blended via clip regions keyed to scroll position |
-| **Design** | Glassmorphic tiles & bands via `backdrop-filter`, alternating transparent parallax windows and opaque content bands |
-| **Data** | All content lives in flat CSV files (`csv/`), parsed at runtime by PapaParse — add a row and it appears on the site |
-| **Modals** | 7 modal types — Detail · MTG Deck · MARP Diagram · Architecture · PDF Viewer · WebGL Game · Gallery |
-| **Audio** | Integrated radio player — Web Audio API equalizer visualization, transport controls, volume slider & mute |
-| **Scroll** | IntersectionObserver reveal animations · scroll-hint fade-outs · active nav highlight with auto-scroll |
-| **A11y** | Skip-to-content link · focus trapping · ARIA labels · `noscript` fallback · JSON-LD · Open Graph & Twitter Cards |
-| **Hosting** | GitHub Pages from `master` — no CI needed · MIT licensed |
-
-```
-mutilar.github.io/
-├── index.html          ← single-page shell
-├── css/styles.css      ← glassmorphism + responsive
-├── js/
-│   ├── parallax.js     ← dual-canvas orb & glint engine
-│   ├── scroll.js       ← IntersectionObserver reveals
-│   ├── modals.js       ← stacked modal manager + focus trap
-│   ├── data.js         ← CSV → card grids, deck & BOM loader
-│   ├── pdfviewer.js    ← dynamic PDF.js import + spread view
-│   ├── radio.js        ← Web Audio analyser → EQ visualizer
-│   └── theme.js        ← light/dark toggle + localStorage
-├── csv/                ← 11 CSV files driving all content
-├── images/             ← banners, card art, diagrams, GIFs
-├── games/              ← Unity WebGL builds
-├── radio/              ← MP3 playlist
-└── pdf/                ← Dusk Rose Codex
-```
+| **Rendering** | Dual-canvas coprime parallax engine with per-section color palettes |
+| **Design** | Glassmorphic tiles & bands via `backdrop-filter` |
+| **Data** | CSV-driven content parsed at runtime by PapaParse |
+| **Modals** | 7 modal types — Detail · Deck · Diagram · Architecture · PDF · WebGL · Gallery |
+| **Audio** | Web Audio API equalizer visualization & transport controls |
+| **Scroll** | IntersectionObserver reveal animations & active nav highlight |
+| **A11y** | Focus trapping · ARIA labels · JSON-LD · Open Graph |
+| **Hosting** | GitHub Pages · MIT licensed |
 
 </details>
 </div>
