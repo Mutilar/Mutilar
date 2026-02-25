@@ -168,15 +168,15 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 <tr>
 <td align="center" width="50%">
 
-### 👑 [The Nobles](https://archidekt.com/decks/15093247/the_nobles)
-**Edgar Markov**
+**👑 [The Nobles](https://archidekt.com/decks/15093247/the_nobles)**
+<br>Edgar Markov
 > Mardu Vampires
 
 </td>
 <td align="center" width="50%">
 
-### 👹 [The Demons](https://archidekt.com/decks/15094042/the_demons)
-**Clavileño, First of the Blessed**
+**👹 [The Demons](https://archidekt.com/decks/15094042/the_demons)**
+<br>Clavileño, First of the Blessed
 > Orzhov Aristocrats
 
 </td>
@@ -273,17 +273,17 @@ The intersection of computer science & entrepreneurship is a fascinating blend o
 
 <div align="center">
 
-| | Project | Context | Award |
-|:--|:--|:--|:--|
-| 🎛 | [Home IoT Panel](https://github.com/Mutilar/home-control-panel) | RPi smart home control surface — toggles, encoders, sliders | |
-| 🏃 | [MotleyMoves](https://github.com/plebeiathon/MotleyMoves) | Serverless C#/.NET + Azure SQL race management | |
-| ⚡ | [Azure ML Ops](https://github.com/Mutilar/AzureMLOperationalization) | Agentless Jupyter validation — Azure DevOps + ML + Functions | |
-| 💨 | [Breeze](https://github.com/plebeiathon/Breeze) | Aux-jack air quality sensor with real-time heatmap | |
-| 🗠 | [Ozone](https://github.com/SSites/Ozone) | React + Mapbox sustainability map for UC Merced | 🏆 2nd Place |
-| ℹ️ | [Iterate](https://github.com/Mutilar/iterate) | Tap-based mobile code editor — the seed for BitNaughts | 🏆 **$5K Grand Prize** |
-| 🔬 | [Firmi](https://github.com/Mutilar/Firmi-1) | Marching Cubes Fermi surfaces in Fortran90 · NASA MUREP | |
-| 🐕 | DogPark | Tinder-style swipe UI for shelter pet adoption | 🏆 Finalist |
-| ⚡ | AMAX ESD | Real-time ESD bracelet disconnect detection | |
+| | Project | Context | Date | Award |
+|:--|:--|:--|:--|:--|
+| 🎛 | [Home IoT Panel](https://github.com/Mutilar/home-control-panel) | RPi smart home control surface | 2019 | |
+| 🏃 | [MotleyMoves](https://github.com/plebeiathon/MotleyMoves) | Serverless C#/.NET + Azure SQL | May 2019 | |
+| ⚡ | [Azure ML Ops](https://github.com/Mutilar/AzureMLOperationalization) | Agentless Jupyter CI/CD pipeline | May 2019 | |
+| 💨 | [Breeze](https://github.com/plebeiathon/Breeze) | Aux-jack air quality sensor | May 2019 | |
+| 🗠 | [Ozone](https://github.com/SSites/Ozone) | React + Mapbox sustainability map | May 2018 | 🏆 2nd Place |
+| ℹ️ | [Iterate](https://github.com/Mutilar/iterate) | Tap-based mobile code editor | May 2017 | 🏆 **$5K Grand Prize** |
+| 🔬 | [Firmi](https://github.com/Mutilar/Firmi-1) | Marching Cubes Fermi surfaces | May 2018 | |
+| 🐕 | DogPark | Tinder-style pet adoption UI | May 2016 | 🏆 Finalist |
+| ⚡ | AMAX ESD | Real-time ESD disconnect detection | Jan 2015 | |
 
 [![Iterate](https://img.shields.io/badge/Iterate-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iteratecode)
 <br>
