@@ -7,14 +7,19 @@
 
 <!-- ─── HERO ─────────────────────────────────────────────────── -->
 
+<a href="https://mutilar.github.io">
+  <img src="https://mutilar.github.io/images/brian.png" width="150" style="border-radius:50%;" alt="Brian Hungerman" />
+</a>
+
 # 🐧 Brian Hungerman
 
-**Senior Software Engineer** · Incubating **A.I. U.X.** with **[Microsoft Applied Sciences](https://www.microsoft.com/applied-sciences)**
+**Senior [Software Engineer](https://en.wikipedia.org/wiki/Software_engineering)** incubating **[A.I.](https://en.wikipedia.org/wiki/Artificial_intelligence) [U.X.](https://en.wikipedia.org/wiki/User_experience)** with **Microsoft [Applied Sciences](https://www.microsoft.com/applied-sciences)**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mutilar.github.io-1B1F2B?style=for-the-badge&labelColor=0a0c10)](https://mutilar.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mutilar.github.io-FF6719?style=for-the-badge&labelColor=555)](https://mutilar.github.io)
 [![Blog](https://img.shields.io/badge/Blog-Codefied-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://codefied.substack.com/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12143746238)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
+[![Email](https://img.shields.io/badge/Email-C20A5E?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:brianhungerman@gmail.com)
 
 </div>
 
@@ -25,11 +30,11 @@
 
 ### 🔭 What's Up
 
-- 🤖 Hacking [**@Marp**](https://github.com/Mutilar/marp) (Raspberry Pi 5 + Valve Steam Deck)
-- 🔬 Researching [**@Microsoft Applied Sciences**](https://www.microsoft.com/applied-sciences) (A.I. U.X. incubation)
-- ⚙️ Engineered [**@Azure Machine Learning**](https://azure.microsoft.com/en-us/services/machine-learning/) (8B+ requests/day)
-- ☄️ Hacked [**@BitNaughts**](https://github.com/bitnaughts) (Code Gamified)
-- ℹ️ Hacked [**@IterateCode**](https://github.com/iteratecode) (CITRIS Mobile App Challenge)
+- 🤖 Hacking [**@Marp**](https://github.com/Mutilar/marp) — robotics test-bed on Raspberry Pi 5 + Valve Steam Deck
+- 🔬 Researching [**@Microsoft Applied Sciences**](https://www.microsoft.com/applied-sciences) — A.I. U.X. incubation
+- ⚙️ Engineered [**@Azure Machine Learning**](https://azure.microsoft.com/en-us/services/machine-learning/) — 8B+ requests/day
+- ☄️ Hacked [**@BitNaughts**](https://github.com/bitnaughts) — code gamified across 4 Microsoft Hackathons
+- ℹ️ Hacked [**@IterateCode**](https://github.com/iteratecode) — $5,000 Grand Prize, CITRIS Mobile App Challenge
 
 </td><td width="320">
 
@@ -37,12 +42,12 @@
 🐧 Brian Hungerman
 ├── 🪟 Microsoft (2019–Present)
 │   ├── Applied Sciences
-│   └── Azure ML
+│   └── Azure ML · E+D
 ├── 🎓 UC Merced (2016–2019)
 │   └── CSE · Magna cum laude
-├── 🤖 MARP (2025–2026)
-├── ☄️ BitNaughts (2016–2026)
-├── 🪄 Dusk Rose Codex (2025)
+├── 🤖 MARP
+├── ☄️ BitNaughts
+├── 🪄 MTG · Dusk Rose Codex
 └── 45+ open-source repos
 ```
 
@@ -57,45 +62,31 @@
 
 ## 🤖 [MARP](https://github.com/Mutilar/Marp)
 
-> *From retrofitting a decades-old robot with modern circuitry… to reimagining the control interface via a Valve Steam Deck… to enabling new A.I. experiences on a robotics platform.*
+> *From retrofitting a **decades-old robot** with a **Modern Brain** via a **Raspberry Pi 5**… to reimagining the **Control Interface** via a **Valve Steam Deck**… to bringing it to life with new **Eyes**, **Ears** & **Mouth**.*
+
+**MARP** is a robotics test-bed that bridges my **[FRC experience](https://github.com/Mutilar)** with my design skills & aesthetic!
 
 </div>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center">
 
 <a href="https://github.com/Mutilar/MarpGamepad">
-  <img src="https://raw.githubusercontent.com/Mutilar/MarpGamepad/main/images/marp.gif" alt="MARP Gamepad Demo" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mutilar/MarpGamepad/main/images/marp.gif" alt="MARP Gamepad Demo" width="480" />
 </a>
 
 <sub>🎮 MARP Gamepad — Unity 6.0 wireless teleoperation on Steam Deck</sub>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td>
 
 | Module | Stack |
 |:--|:--|
 | [🧠 marp.brain](https://github.com/Mutilar/MarpPi) | Raspberry Pi 5 — 4-axis stepper control, MJPEG video mux, Kinect RGB/IR/depth, auto-stop safety, systemd auto-start |
 | [🎮 marp.gamepad](https://github.com/Mutilar/MarpGamepad) | Valve Steam Deck — Unity 6.0 client, real-time MJPEG feed, UDP JSON protocol, Xbox & Steam Deck controller support |
-
-<details>
-<summary><b>⚡ Hardware BOM</b></summary>
-<br>
-
-| Component | Details |
-|:--|:--|
-| Power | 24V NMC lithium battery (240 Wh) |
-| Drive | KH56 stepper motors × 2 |
-| Turret | M55SP-3NK steppers × 2 |
-| Drivers | TB6600 × 4 |
-| Camera | Arducam IMX708 + Kinect via libfreenect |
-| Projector | NEBULA Capsule Air mini |
-| LED | WS2815 addressable face ring |
-| Sensors | Sharp GP2Y0A02 perimeter × 4 |
-| Network | Wi-Fi Direct hotspot (no router) |
-
-</details>
 
 </td>
 </tr>
@@ -109,9 +100,9 @@
 
 ## ☄️ [BitNaughts](https://github.com/bitnaughts/bitnaughts)
 
-> *From integrating Iterate's interpreter into a gamified environment… to pitching at four consecutive Microsoft Hackathons… to open-sourcing an educational game engine built in Unity & C#.*
+> *From transforming **[Iterate](https://github.com/Mutilar/iterate)** into a new **[Interpreter](https://github.com/bitnaughts/bitnaughts.interpreter)** into a **gamified environment**… to pitching at four consecutive **[Microsoft Hackathons](https://www.microsoft.com/en-us/garage)**… to open-sourcing the **whole stack** from **[Unity](https://github.com/bitnaughts/bitnaughts.unity)** to **[Azure](https://github.com/bitnaughts/bitnaughts.mainframe)**.*
 
-**BitNaughts isn't just an educational programming video-game — it's code gamified!**
+**[BitNaughts](https://github.com/bitnaughts/bitnaughts)** isn't just an educational programming video-game: it's code gamified!
 
 [![Play](https://img.shields.io/badge/▶_Play_Now-bitnaughts.io-F25022?style=for-the-badge)](https://bitnaughts.io)
 
@@ -119,12 +110,14 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center">
 
 https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0ecdc5a0b75e
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td>
 
 | Module | Role |
 |:--|:--|
@@ -153,11 +146,11 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 
 ## 🪄 Magic: The Gathering
 
-> *Two primordial gods: Order & Chaos, and three factions emerge: Faithful, Greedy & Defiant… except Faith does not Save, Wealth does not Protect & Rebellion does not Free… for Mortality is merely a Door, not a Wall.*
+> *Two primordial gods: **Order** & **Chaos**, and three factions emerge: **Faithful**, **Greedy** & **Defiant**… except **Faith** does not **Save**, **Wealth** does not **Protect** & **Rebellion** does not **Free**… what culminates is wry **[Mythopoeia](https://en.wikipedia.org/wiki/Mythopoeia)** that **subverts tired clichés**.*
 
-The **Dusk Rose Codex** transforms *Magic: The Gathering* into satirical *Vorthos* scripture, bound by hand in crimson thread.
+**[Dusk Rose Codex](https://mutilar.github.io/#mtg)** transforms **[Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering)** into satirical **[Vorthos](https://mtg.fandom.com/wiki/Vorthos)** scripture, bound by hand in crimson thread!
 
-[![Watch](https://img.shields.io/badge/📖_Dusk_Rose_Codex_(3:26)-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=0_k_snZ1DYk)
+[![Watch](https://img.shields.io/badge/Dusk_Rose_Codex_(3:26)-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=0_k_snZ1DYk)
 
 </div>
 
@@ -167,16 +160,12 @@ The **Dusk Rose Codex** transforms *Magic: The Gathering* into satirical *Vortho
 
 ### 👑 [The Nobles](https://archidekt.com/decks/15093247/the_nobles)
 **Edgar Markov** · Mardu Vampires
-Eminence token flood · anthems · tutor package
-~$1,500 · Bracket 4
 
 </td>
 <td align="center" width="50%">
 
 ### 👹 [The Demons](https://archidekt.com/decks/15094042/the_demons)
 **Clavileño, First of the Blessed** · Orzhov Aristocrats
-Sacrifice/recursion engine · denial · tutor package
-~$2,000 · Bracket 4
 
 </td>
 </tr>
@@ -189,21 +178,24 @@ Sacrifice/recursion engine · denial · tutor package
 <details>
 <summary><h2>👨‍💻 Work</h2></summary>
 
-> *From building platforms to fight cancer with ML & big data… to teaching game design, coding, and robotics across the socioeconomic spectrum… to analysing hydrologic & ecosystemic implications of Central Valley agriculture.*
+> *From building **platforms to fight cancer** with **machine learning** & **big data**… to teaching **game design**, **coding**, and **robotics** across the **socioeconomic spectrum**… to analysing **hydrologic & ecosystemic implications** of **Central Valley agriculture**.*
+
+I've had amazing opportunities to work at empowering companies, non-profits & innovative research labs!
 
 | | Role | Org | Period | Location |
 |:--|:--|:--|:--|:--|
-| 🪟 | **Senior SWE**, SWE Intern | [Microsoft](https://github.com/microsoft) (E+D · Azure) | 2019 – Present | Bellevue, WA |
-| 🔬 | SWE Intern | [Ventana / Roche](https://diagnostics.roche.com/) | May – Dec 2018 | Santa Clara, CA |
-| 🛰️ | Geospatial RA | [VICE Lab](https://github.com/vicelab) | Aug 2018 – Dec 2019 | Merced, CA |
-| 📡 | Computational RA | ANDES Lab | Jan – May 2019 | Merced, CA |
-| 🚀 | Computational RA | [MACES NASA MUREP](https://github.com/Mutilar/Firmi-1) | Aug 2017 – May 2018 | Merced, CA |
-| 🏙️ | Web Dev, Events | [CITRIS & Banatao](https://github.com/citris-ucmerced) | May 2017 – Dec 2018 | Merced, CA |
-| 💻 | Director | [HackMerced](https://github.com/HackMerced) (MLH) | May 2018 – May 2019 | Merced, CA |
+| 🪟 | **Senior SWE**, SWE Intern | [Microsoft](https://github.com/microsoft) *(E+D & Azure)* | May 2019 – Present | Bellevue, WA |
+| 🔬 | SWE Intern | [Ventana](https://diagnostics.roche.com/) *(Roche)* | May – Dec 2018 | Santa Clara, CA |
+| 🛰️ | Geospatial RA | [VICE Lab](https://github.com/vicelab) *(UCM)* | Aug 2018 – Dec 2019 | Merced, CA |
+| 📡 | Computational RA | ANDES Lab *(UCM)* | Jan – May 2019 | Merced, CA |
+| 🚀 | Computational RA | [MACES](https://github.com/Mutilar/Firmi-1) *(NASA MUREP)* | Aug 2017 – May 2018 | Merced, CA |
+| 🏙️ | Web Dev, Event Organizer | [CITRIS & Banatao Institute](https://github.com/citris-ucmerced) | May 2017 – Dec 2018 | Merced, CA |
+| 💻 | Director | [HackMerced](https://github.com/HackMerced) *(MLH)* | May 2018 – May 2019 | Merced, CA |
 | 🕹️ | Instructor, Founder | [Summer of Game Design](https://github.com/Mutilar/SpaceNinjas) | Jun 2015 – Jul 2016 | Danville, CA |
 | 📚 | Instructor | Learn BEAT | Summer 2018 | Merced, CA |
-| 💻 | Outreach Lead | ACM @ UCM | May 2018 – May 2019 | Merced, CA |
-| 🤖 | Electrical Lead | Red Tie Robotics FRC 1458 | Aug 2014 – May 2016 | Danville, CA |
+| 💻 | Outreach Lead | ACM *(UCM)* | May 2018 – May 2019 | Merced, CA |
+| 🤖 | Electrical Lead, Treasurer | Red Tie Robotics *(FRC 1458)* | Aug 2014 – May 2016 | Danville, CA |
+| 🤖 | Volunteer | Alamo Robotics | Summer 2016 | Alamo, CA |
 
 </details>
 
@@ -214,7 +206,9 @@ Sacrifice/recursion engine · denial · tutor package
 <details>
 <summary><h2>🎓 Education</h2></summary>
 
-> *From discrete mathematics & data structures laying the groundwork… to algorithms, networks & databases building the toolkit… to robotics, software engineering & computer organization tying it all together.*
+> *From **discrete mathematics** & **data structures** laying the groundwork… to **algorithms**, **networks** & **databases** building the toolkit… to **robotics**, **software engineering** & **computer organization** tying it all together.*
+
+I've compiled every lab, assignment & project from my journey through **[UCM's Computer Science & Engineering](https://engineering.ucmerced.edu/academics/CSE/computer-science-engineering)** program!
 
 **University of California, Merced** — Computer Science & Engineering · ***Magna cum laude*** (GPA 3.74)
 
@@ -239,7 +233,9 @@ Sacrifice/recursion engine · denial · tutor package
 <details>
 <summary><h2>🛠️ Projects</h2></summary>
 
-> *From empowering those with asthma with real-time air quality data… to leveraging big data to promote sustainability initiatives… to providing an intuitive learning environment for young programmers.*
+> *From empowering those with **asthma** with **real-time air quality data**… to leveraging **big data** to promote **sustainability initiatives**… to providing an **intuitive learning environment** for **new programmers**.*
+
+The intersection of computer science & entrepreneurship is a fascinating blend of creativity, pitching & coding!
 
 | | Project | Context | Award |
 |:--|:--|:--|:--|
@@ -262,7 +258,9 @@ Sacrifice/recursion engine · denial · tutor package
 <details>
 <summary><h2>⛏️ Hackathons</h2></summary>
 
-> *From AR to visualize the missing link from farm to table… to an autonomous, room-mapping robotic tank for first responders called SRIRACHA… to optical character recognition on nutrition labels as a FitBit for your stomach.*
+> *From AR to visualize the **missing link** from **farm to table**… to a semi-autonomous **robotic tank** called **[SRIRACHA](https://github.com/plebeiathon/sriracha)**… to OCR on **nutrition labels** as a **FitBit for your stomach**.*
+
+I've traveled all of **[California](https://en.wikipedia.org/wiki/California)** competing in hackathons, collaborating with colleagues & building teams of passionate engineers!
 
 | | Hack | Event | Award |
 |:--|:--|:--|:--|
@@ -287,7 +285,9 @@ Sacrifice/recursion engine · denial · tutor package
 <details>
 <summary><h2>🎮 Games</h2></summary>
 
-> *From hands-on applications of graph theory & data structures… to tinkering with finite state machines & model view controllers… to understanding challenges in big data processing, rendering & visualization.*
+> *From hands-on applications of **graph theory** & **data structures**… to tinkering with **finite state machines** & **model view controllers**… to understanding challenges in **big data processing**, **rendering** & **visualization**.*
+
+Game design offers unique coding challenges to solve, all while fostering creativity & design skills!
 
 | | Game | Genre | Play |
 |:--|:--|:--|:--|
@@ -307,7 +307,7 @@ Sacrifice/recursion engine · denial · tutor package
      ═══════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><h2>🏗️ Portfolio Architecture</h2></summary>
+<summary><h2>🏗️ Portfolio</h2></summary>
 
 [**mutilar.github.io**](https://mutilar.github.io) is itself an open-source project — a single-page app with **zero build tools** and **zero frameworks**.
 
@@ -357,12 +357,12 @@ mutilar.github.io/
 
 *I welcome opportunities to connect, learn from others & share my expertise!*
 
-[![Portfolio](https://img.shields.io/badge/🌐-mutilar.github.io-1B1F2B?style=flat-square&labelColor=0a0c10)](https://mutilar.github.io)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mutilar)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:brianhungerman@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐-mutilar.github.io-FF6719?style=flat-square&labelColor=555)](https://mutilar.github.io)
 [![Blog](https://img.shields.io/badge/-Blog-FF6719?style=flat-square&logo=substack&logoColor=white)](https://codefied.substack.com/)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/12143746238)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
+[![Email](https://img.shields.io/badge/-Email-C20A5E?style=flat-square&logo=maildotru&logoColor=white)](mailto:brianhungerman@gmail.com)
 
 <sub>🐧 Brian Hungerman · 2026</sub>
 
