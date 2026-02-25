@@ -13,7 +13,6 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mutilar.github.io-FF6719?style=for-the-badge&labelColor=555)](https://brianhungerman.com)
 [![Blog](https://img.shields.io/badge/Blog-Codefied-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://codefied.substack.com/)
-<br>
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12143746238)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
 [![Email](https://img.shields.io/badge/Email-C20A5E?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:brianhungerman@gmail.com)
@@ -172,7 +171,6 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 
 </div>
 
-
 <!-- ═══════════════════════════════════════════════════════════════
      👨‍💻 WORK
      ═══════════════════════════════════════════════════════════════ -->
@@ -202,8 +200,8 @@ I've had amazing opportunities to work at empowering companies, non-profits & in
 | 🤖 | Electrical Lead, Treasurer | Red Tie Robotics *(FRC 1458)* | Aug 2014 – May 2016 | Danville, CA |
 | 🤖 | Volunteer | Alamo Robotics | Summer 2016 | Alamo, CA |
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
-[![Resume](https://img.shields.io/badge/📄_Resume-555?style=flat-square)](https://github.com/Mutilar/mutilar.github.io/blob/master/pdf/resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
+[![Resume](https://img.shields.io/badge/📄_Resume-555?style=for-the-badge)](https://github.com/Mutilar/mutilar.github.io/blob/master/pdf/resume.pdf)
 
 </div>
 
@@ -241,7 +239,7 @@ I've compiled every lab, assignment & project from my journey through **[UCM's C
 
 **University of California, Merced** — Computer Science & Engineering · ***Magna cum laude*** (GPA 3.74)
 
-[![UC Merced](https://img.shields.io/badge/🎓_UC_Merced-003DA5?style=flat-square)](https://www.ucmerced.edu/)
+[![UC Merced](https://img.shields.io/badge/🎓_UC_Merced-003DA5?style=for-the-badge)](https://www.ucmerced.edu/)
 
 </details>
 </div>
@@ -272,8 +270,8 @@ The intersection of computer science & entrepreneurship is a fascinating blend o
 | 🐕 | DogPark | Tinder-style pet adoption UI | May 2016 | 🏆 Finalist |
 | ⚡ | AMAX ESD | Real-time ESD disconnect detection | Jan 2015 | |
 
-[![Iterate](https://img.shields.io/badge/Iterate-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iteratecode)
-[![Mutilar](https://img.shields.io/badge/Mutilar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mutilar)
+[![Iterate](https://img.shields.io/badge/Iterate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iteratecode)
+[![Mutilar](https://img.shields.io/badge/Mutilar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mutilar)
 
 </div>
 
@@ -306,8 +304,8 @@ I've traveled all of **[California](https://en.wikipedia.org/wiki/California)** 
 | 🌾 | [GISt](https://github.com/plebeiathon/GISt) | HackDavis | Jan 2018 | 🏆 Best Environment |
 | 🥫 | [DigestQuest](https://github.com/plebeiathon/DigestQuest) | HackMerced | Sep 2017 | 🏆 Best in Design |
 
-[![Plebeiathon](https://img.shields.io/badge/Plebeiathon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/plebeiathon)
-[![DevPost](https://img.shields.io/badge/🏅_DevPost-003E54?style=flat-square)](https://devpost.com/BrianHungerman)
+[![Plebeiathon](https://img.shields.io/badge/Plebeiathon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/plebeiathon)
+[![DevPost](https://img.shields.io/badge/🏅_DevPost-003E54?style=for-the-badge)](https://devpost.com/BrianHungerman)
 
 </div>
 
@@ -339,8 +337,8 @@ Game design offers unique coding challenges to solve, all while fostering creati
 | ✨ | [VooDoo](https://github.com/Mutilar/Voodoo) | Auto-Battler/RTS | 2015 | [▶ WebGL](https://mutilar.github.io/games/Voodoo/) |
 | 🌌 | Galactic Conquest | Procedural Space Strategy | 2014 | |
 
-[![SeeRäuber](https://img.shields.io/badge/SeeRäuber-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/searauber)
-[![BitNaughts](https://img.shields.io/badge/BitNaughts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bitnaughts)
+[![SeeRäuber](https://img.shields.io/badge/SeeRäuber-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/searauber)
+[![BitNaughts](https://img.shields.io/badge/BitNaughts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bitnaughts)
 
 </div>
 
@@ -386,6 +384,13 @@ Game design offers unique coding challenges to solve, all while fostering creati
 ### ✨ Cheers
 
 *I welcome opportunities to connect, learn from others & share my expertise!*
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mutilar)
+[![Portfolio](https://img.shields.io/badge/🌐-mutilar.github.io-FF6719?style=for-the-badge&labelColor=555)](https://mutilar.github.io)
+[![Blog](https://img.shields.io/badge/-Blog-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://codefied.substack.com/)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12143746238)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
+[![Email](https://img.shields.io/badge/-Email-C20A5E?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:brianhungerman@gmail.com)
 
 <sub>🐧 Brian Hungerman · 2026</sub>
 
