@@ -40,7 +40,7 @@
 🐧 Brian Hungerman
 ├── 🪟 Microsoft (2019–Present)
 │   ├── Applied Sciences (E+D)
-│   └── Inferencing (Azure ML)
+│   └── Inferencing (AzureML)
 ├── 🎓 UC Merced (2016–2019)
 │   └── CSE (Magna cum laude)
 ├── 🤖 MARP
