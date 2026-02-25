@@ -170,12 +170,14 @@ https://github.com/bitnaughts/.github/assets/24861524/63ca7bd4-4d33-4f41-a2a1-0e
 
 **👑 [The Nobles](https://archidekt.com/decks/15093247/the_nobles)**
 <br>Edgar Markov
+> Mardu Vampires
 
 </td>
 <td align="center" width="50%">
 
 **👹 [The Demons](https://archidekt.com/decks/15094042/the_demons)**
 <br>Clavileño
+> Orzhov Aristocrats
 
 </td>
 </tr>
@@ -213,7 +215,6 @@ I've had amazing opportunities to work at empowering companies, non-profits & in
 | 🤖 | Volunteer | Alamo Robotics | Summer 2016 | Alamo, CA |
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/brian-hungerman/)
-<br>
 [![Resume](https://img.shields.io/badge/📄_Resume-555?style=flat-square)](https://github.com/Mutilar/mutilar.github.io/blob/master/pdf/resume.pdf)
 
 </div>
@@ -278,13 +279,12 @@ The intersection of computer science & entrepreneurship is a fascinating blend o
 | ⚡ | [Azure ML Ops](https://github.com/Mutilar/AzureMLOperationalization) | Agentless Jupyter CI/CD pipeline | May 2019 | |
 | 💨 | [Breeze](https://github.com/plebeiathon/Breeze) | Aux-jack air quality sensor | May 2019 | |
 | 🗠 | [Ozone](https://github.com/SSites/Ozone) | React + Mapbox sustainability map | May 2018 | 🏆 2nd Place |
-| ℹ️ | [Iterate](https://github.com/Mutilar/iterate) | Tap-based mobile code editor | May 2017 | 🏆 **$5K Grand Prize** |
+| ℹ️ | [Iterate](https://github.com/Mutilar/iterate) | Tap-based mobile code editor | May 2017 | 🏆 $5,000 Grand Prize |
 | 🔬 | [Firmi](https://github.com/Mutilar/Firmi-1) | Marching Cubes Fermi surfaces | May 2018 | |
 | 🐕 | DogPark | Tinder-style pet adoption UI | May 2016 | 🏆 Finalist |
 | ⚡ | AMAX ESD | Real-time ESD disconnect detection | Jan 2015 | |
 
 [![Iterate](https://img.shields.io/badge/Iterate-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iteratecode)
-<br>
 [![Mutilar](https://img.shields.io/badge/Mutilar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mutilar)
 
 </div>
@@ -319,7 +319,6 @@ I've traveled all of **[California](https://en.wikipedia.org/wiki/California)** 
 | 🥫 | [DigestQuest](https://github.com/plebeiathon/DigestQuest) | HackMerced | Sep 2017 | 🏆 Best in Design |
 
 [![Plebeiathon](https://img.shields.io/badge/Plebeiathon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/plebeiathon)
-<br>
 [![DevPost](https://img.shields.io/badge/🏅_DevPost-003E54?style=flat-square)](https://devpost.com/BrianHungerman)
 
 </div>
@@ -353,7 +352,6 @@ Game design offers unique coding challenges to solve, all while fostering creati
 | 🌌 | Galactic Conquest | Procedural Space Strategy | 2014 | |
 
 [![SeeRäuber](https://img.shields.io/badge/SeeRäuber-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/searauber)
-<br>
 [![BitNaughts](https://img.shields.io/badge/BitNaughts-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bitnaughts)
 
 </div>
